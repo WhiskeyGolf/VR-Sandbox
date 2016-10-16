@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3DA14758-D91A-22E6-248A-7218FC426DCE}") = "VR-Sandbox", "Assembly-CSharp-firstpass.csproj", "{BE2A9E8F-E497-7698-148D-2171394849B7}"
+EndProject
+Project("{3DA14758-D91A-22E6-248A-7218FC426DCE}") = "VR-Sandbox", "Assembly-CSharp.csproj", "{458FB6A8-FB5B-018B-1ECC-214404DE9AEA}"
+EndProject
+Project("{3DA14758-D91A-22E6-248A-7218FC426DCE}") = "VR-Sandbox", "Assembly-CSharp-Editor-firstpass.csproj", "{343870AB-9301-2D09-BB5F-191A21EBF206}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE2A9E8F-E497-7698-148D-2171394849B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2A9E8F-E497-7698-148D-2171394849B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2A9E8F-E497-7698-148D-2171394849B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2A9E8F-E497-7698-148D-2171394849B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{458FB6A8-FB5B-018B-1ECC-214404DE9AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{458FB6A8-FB5B-018B-1ECC-214404DE9AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{458FB6A8-FB5B-018B-1ECC-214404DE9AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{458FB6A8-FB5B-018B-1ECC-214404DE9AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{343870AB-9301-2D09-BB5F-191A21EBF206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{343870AB-9301-2D09-BB5F-191A21EBF206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{343870AB-9301-2D09-BB5F-191A21EBF206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{343870AB-9301-2D09-BB5F-191A21EBF206}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

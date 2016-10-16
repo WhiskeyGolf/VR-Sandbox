@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/VR-Sandbox.unity
+- path: Assets/Scenes/VR-Sandbox.unity
   isLoaded: 1
   isActive: 1
